@@ -69,3 +69,21 @@ server.log
 /db/*.db-journal
 /db/*.db-wal
 /db/*.db-shm
+
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# pnpm local store
+.pnpm-store/
+
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# pnpm local store
+.pnpm-store/
